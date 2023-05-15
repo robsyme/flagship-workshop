@@ -1,0 +1,3 @@
+prefix: flagship
+skip:
+- github_badges
